@@ -1,0 +1,93 @@
+/*CSS reset settings here*/
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#wrapper {
+    width: 950px;
+    padding: 10px;
+    background-color: darkblue;
+    margin: 10px auto;
+}
+
+#header {
+    height: 30px;
+    color: white;
+    padding: 20px;
+    background-color: red;
+    margin: 10px;
+    display: block;
+    border-radius: 13px;
+}
+
+#navigation {
+    height: 300px;
+    padding: 20px;
+    color: powderblue;
+    text-decoration: underline;
+    width: 160px;
+    background-color: teal;
+    margin: 5px;
+    display: inline-block;
+    border-radius: 25px;
+}
+
+#main_content {
+    color: white;
+    padding: 5px;
+    height: 360px;
+    width: 700px;
+    background-color: black;
+    padding: 10px;
+    display: inline-block;
+    vertical-align: top;
+    margin: 5px;
+    border-radius: 15px;
+    font-size: 73%;
+    list-style: inside;
+    text-align: left;
+}
+
+.subcontents {
+    height: 200px;
+    width: 210px;
+    background-color: yellow;
+    margin: 5px;
+    display: inline-block;
+}
+
+#footer {
+    height: 20px;
+    color: white;
+    width: 910px;
+    background-color: dimgray;
+    padding: 10px;
+    display: block;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.underlined {
+	color: powderblue;
+	text-decoration: underline;
+}
+
+.purple {
+	color: purple;
+}
+
+ul{
+	margin:0;
+	padding: 0 20px;
+}
+
+ul li	{
+	padding:0;
+	width: 680px;
+	margin: 10px 0;
+}
+
+
+
+
